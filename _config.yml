@@ -21,7 +21,14 @@ author: Katia Slodkowski Clerici
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Research projects:
+  Publications: 
+  Events: 
+  Teaching:
+  Outreach:
+  CV:
+  Contact:
+  
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
