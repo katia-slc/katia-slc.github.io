@@ -21,13 +21,13 @@ author: Katia Slodkowski Clerici
 
 navbar-links:
   #About Me: "aboutme"
-  Research projects:
-  Publications: 
-  Events: 
-  Teaching:
-  Outreach:
-  CV:
-  Contact:
+  Research projects: "research_projects"
+  Publications: "publications"
+  Events: "events"
+  Teaching: "teaching"
+  Outreach: "outreach"
+  CV: "cv"
+  Contact: "contact"
   
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
